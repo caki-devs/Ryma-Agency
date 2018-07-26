@@ -202,9 +202,9 @@ a:active {
     outline: none;
 }
 
-li {
+/* li {
     list-style: none;
-}
+} */
 
 .caviar-table {
     display: table;
@@ -1257,7 +1257,7 @@ li {
 }
 
 .regular-page-content .post-title {
-    margin-bottom: 50px;
+    margin-bottom: 10px;
 }
 
 blockquote {
