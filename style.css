@@ -1412,3 +1412,7 @@ a.wrimagecard:hover, .wrimagecard-topimage:hover {
     color: #525c65;
     transition: color 0.3s ease;
 }
+
+li{
+    line-height: 1.9;
+}
