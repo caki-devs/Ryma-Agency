@@ -201,6 +201,7 @@ a:active {
     transition-duration: 500ms;
     font-weight: 600;
     outline: none;
+    color: red;
 }
 
 /* li {
@@ -1415,6 +1416,7 @@ a.wrimagecard:hover, .wrimagecard-topimage:hover {
 }
 
 li{
+    font-size: 18px;
     line-height: 1.9;
 }
 
