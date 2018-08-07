@@ -1387,9 +1387,6 @@ section .section-title{
 	position: relative;
     font-size: 70px;
 }
-.wrimagecard-topimage_header{
-padding: 20px;
-}
 
 .wrimagecard-topimage_header img {
 height: 5rem;
