@@ -183,7 +183,7 @@ ol {
     font-size: 18px;
     right: 30px;
     width: 40px;
-    background-color: #ff0000;
+    background-color: rgb(121, 114, 228);
     color: #fff;
     text-align: center;
     height: 40px;
@@ -201,7 +201,7 @@ a:active {
     transition-duration: 500ms;
     font-weight: 600;
     outline: none;
-    color: red;
+    color: rgb(121, 114, 228);
 }
 
 /* li {
@@ -273,7 +273,7 @@ a:active {
     -webkit-animation: 6000ms linear 0s normal none infinite running caviar-load;
     animation: 6000ms linear 0s normal none infinite running caviar-load;
     background: transparent none repeat scroll 0 0;
-    border-color: #ebebeb #ebebeb #ff0000;
+    border-color: #ebebeb #ebebeb rgb(121, 114, 228);
     border-radius: 50%;
     border-style: solid;
     border-width: 2px;
@@ -502,14 +502,14 @@ a:active {
 
 .caviar-btn:hover,
 .caviar-btn:focus {
-    color: #ff0000;
+    color: rgb(121, 114, 228);
     font-weight: 500;
 }
 
 .caviar-btn > span {
     width: 8px;
     height: 8px;
-    background-color: #ff0000;
+    background-color: rgb(121, 114, 228);
     display: inline-block;
     border-radius: 50%;
     margin-right: 10px;
@@ -625,7 +625,7 @@ a:active {
 
 .navbar-nav .nav-link:hover,
 .navbar-nav .nav-item.active .nav-link {
-    color: #ff0000;
+    color: rgb(121, 114, 228);
 }
 
 .caviar-search-btn > a {
@@ -644,7 +644,7 @@ a:active {
 }
 
 .dropdown-item:hover {
-    background-color: #ff0000;
+    background-color: rgb(121, 114, 228);
     color: #fff;
 }
 
@@ -738,7 +738,7 @@ a:active {
 }
 
 .caviar-hero-area .owl-next:hover {
-    background-color: #ff0000;
+    background-color: rgb(121, 114, 228);
     color: #fff;
 }
 
@@ -790,7 +790,7 @@ a:active {
     font-size: 12px;
     text-transform: uppercase;
     letter-spacing: 2px;
-    color: #ff0000;
+    color: rgb(121, 114, 228);
     font-family: 'Amaranth';
     font-weight: 600;
     margin-bottom: 30px;
@@ -900,11 +900,11 @@ a:active {
 }
 
 .caviar-single-dish:hover .dish-info .dish-name {
-    color: #ff0000;
+    color: rgb(121, 114, 228);
 }
 
 .caviar-single-dish:hover .dish-info .dish-price {
-    background-color: #ff0000;
+    background-color: rgb(121, 114, 228);
 }
 
 .caviar-single-dish:after {
@@ -1121,7 +1121,7 @@ a:active {
 }
 
 .portfolio-menu button.active {
-    color: #ff0000;
+    color: rgb(121, 114, 228);
 }
 
 .single_menu_item {
@@ -1146,7 +1146,7 @@ a:active {
 }
 
 .dish-value > h3 {
-    color: #ff0000;
+    color: rgb(121, 114, 228);
     font-size: 30px;
     margin-bottom: 0;
 }
@@ -1237,7 +1237,7 @@ a:active {
     text-transform: uppercase;
     font-weight: 600;
     letter-spacing: 2px;
-    color: #ff0000;
+    color: rgb(121, 114, 228);
     margin-bottom: 40px;
     font-family: 'Amaranth';
 }
@@ -1251,7 +1251,7 @@ a:active {
 }
 
 .regular-page-content .post-title > a {
-    color: #ff0000;
+    color: rgb(121, 114, 228);
     font-size: 12px;
     text-transform: uppercase;
     letter-spacing: 2px;
