@@ -46,9 +46,9 @@ h6 {
 
 p {
     color: rgba(0, 0, 0, 0.8);
-    font-size: 18px;
+    font-size: 20px;
     line-height: 1.9;
-    font-weight: 400;
+    font-weight: 500;
 }
 
 .section-padding-150 {
@@ -620,7 +620,7 @@ a:active {
     padding-right: 15px;
     padding-left: 15px;
     color: #fff;
-    font-size: 14px;
+    font-size: 18px;
 }
 
 .navbar-nav .nav-link:hover,
