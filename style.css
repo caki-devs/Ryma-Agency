@@ -1389,7 +1389,7 @@ section .section-title{
 }
 
 .wrimagecard-topimage_header img {
-height: 5rem;
+height: 7rem;
 }
 a.wrimagecard:hover, .wrimagecard-topimage:hover {
     box-shadow: 2px 4px 8px 0px rgba(46,61,73,0.2);
